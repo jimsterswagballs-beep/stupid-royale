@@ -1,1 +1,1 @@
-# stupid-royale
+# pixel-royale
